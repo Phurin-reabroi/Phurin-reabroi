@@ -6,7 +6,7 @@ Student
 
 I'm currently studies in Rajabhat Udon Thani University in major Science branch IT (Information Technology)
 
-now i'm learning HTML , CSS, C++, and Lua.
+now i'm learning HTML , CSS, C, and Lua.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [https://phurin-reabroi.github.io/](http://https://phurin-reabroi.github.io/)
