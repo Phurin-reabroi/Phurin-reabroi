@@ -9,7 +9,7 @@ I'm currently studies in Rajabhat Udon Thani University in major Science branch 
 now i'm learning HTML , CSS, C, and Lua.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [https://phurin-reabroi.github.io/](http://https://phurin-reabroi.github.io/)
+* 🖥️  See my portfolio at [https://phurin-reabroi.github.io/](//https://phurin-reabroi.github.io/)
 * ✉️  You can contact me at [rattatuye@gmail.com](mailto:rattatuye@gmail.com)
 * 🧠  I'm currently learning C , Lua ,and software
 * 💬  Ask me about I'm quite a night owl🦉
