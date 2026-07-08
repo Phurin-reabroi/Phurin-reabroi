@@ -16,58 +16,35 @@ I am an Information Technology (IT) student at **Rajabhat Udon Thani University*
 
 ---
 
-## 🛠️ Tech_Stack.dir (Skills & Expertise)
+## 🛠️ Tech_Stack.dir
 
-<table border="3" width="100%" cellpadding="10" cellspacing="0">
-  <thead>
-    <tr bgcolor="#000000">
-      <th align="left" style="color: #c0bda2; width: 25%;">Category</th>
-      <th align="left" style="color: #c0bda2; width: 45%;">Tech Stack</th>
-      <th align="left" style="color: #c0bda2; width: 30%;">Status / Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Languages -->
-    <tr>
-      <td bgcolor="#c0bda2"><b>💻 Programming</b></td>
-      <td bgcolor="#c0bda2">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="20" height="20" /> C &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="20" height="20" /> C++ &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" width="20" height="20" /> Lua
-      </td>
-      <td bgcolor="#c0bda2">Core Logic & Scripting</td>
-    </tr>
-    <!-- Web Development -->
-    <tr>
-      <td bgcolor="#c0bda2"><b>🌐 Web Development</b></td>
-      <td bgcolor="#c0bda2">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="20" height="20" /> HTML5 &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="20" height="20" /> CSS3 &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="20" height="20" /> Bootstrap
-      </td>
-      <td bgcolor="#c0bda2">Responsive Design</td>
-    </tr>
-    <!-- Software & Tools -->
-    <tr>
-      <td bgcolor="#c0bda2"><b>🔧 DevOps & Tools</b></td>
-      <td bgcolor="#c0bda2">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="20" height="20" /> Git & GitHub &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="20" height="20" /> VS Code
-      </td>
-      <td bgcolor="#c0bda2">Version Control / Environment</td>
-    </tr>
-    <!-- Design -->
-    <tr>
-      <td bgcolor="#c0bda2"><b>🎨 Design & Creative</b></td>
-      <td bgcolor="#c0bda2">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="20" height="20" /> Figma &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" width="20" height="20" /> Blender &nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" width="20" height="20" /> Premiere Pro
-      </td>
-      <td bgcolor="#c0bda2">UI Design & Asset Creation</td>
-    </tr>
-  </tbody>
-</table>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+### 🎨 Design & Creative
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9933CC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+</p>
 
 ---
 
