@@ -59,9 +59,7 @@ I am currently studying at **Rajabhat Udon Thani University**, majoring in **Inf
 
 ---
 
-### 📊 GitHub Statistics
-
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phurin-reabroi&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Phurin-reabroi's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phurin-reabroi&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phurin-reabroi&theme=react-dark&bg_color=0f172a&hide_border=true" alt="Phurin's GitHub Activity Graph" width="100%" />
 </p>
