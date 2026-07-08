@@ -1,4 +1,4 @@
-# 💾 [ PHURIN_REABROI.SYS ]
+# 💾 [ PHURIN_REABROI ]
 > **IT Student & Software Developer** 
 
 <p align="left">
@@ -7,16 +7,16 @@
 
 ---
 
-## 📂 Profile_Info.txt
+## 📂 Profile
 I am an Information Technology (IT) student at **Rajabhat Udon Thani University**. Passionate about software engineering, system logic, and interactive development. My focus lies in exploring modern technologies, sharpening logic, and building reliable digital solutions.
 
 * 📍 &nbsp; **Location:** Udon Thani, Thailand
 * 🌐 &nbsp; **Portfolio Website:** [phurin-reabroi.github.io](https://phurin-reabroi.github.io/)
-* ✉️ &nbsp; **Academic / Business Contact:** [rattatuye@gmail.com](mailto:rattatuye@gmail.com)
+* ✉️ &nbsp; **Contact:** [rattatuye@gmail.com](mailto:rattatuye@gmail.com)
 
 ---
 
-## 🛠️ Tech_Stack.dir
+## 🛠️ Tech_Stack
 
 ### 💻 Programming Languages
 <p align="left">
@@ -48,7 +48,7 @@ I am an Information Technology (IT) student at **Rajabhat Udon Thani University*
 
 ---
 
-## 🔗 Contact_Channels.lnk
+## 🔗 Contact_lnk
 
 <p align="left">
   <a href="mailto:rattatuye@gmail.com">
